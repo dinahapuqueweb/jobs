@@ -28,3 +28,11 @@ Somos uma startup para ensino e estamos à procura de alguém para atuar princip
 ### O que oferecemos
 - Remuneração R$ 1.600,00
 - Curso de inglês
+
+### Como é o processo?
+**Nosso processo é dividido em duas etapas:**
+
+1. Enviar um email com o assunto "Vaga frontend" para tech@soulphia.com com seu nome completo, telefone de contato e portfólio caso possua.
+2. Você irá receber nosso contato com um desafio técnico que consiste em realizar uma atividade simulada num intervalo de 48h.
+ 
+### Dúvidas? Entre em contato pelo email tech@soulphia.com
