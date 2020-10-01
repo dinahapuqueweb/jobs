@@ -13,7 +13,7 @@ Somos uma startup para ensino e estamos à procura de alguém para atuar princip
 ### Requisitos
 - Experiência com frameworks/bibliotecas Javascript;
 - Conhecimentos em HTML 5, CSS3, Pré-processadores CSS;
-- Layouts Responsivos;
+- Conhecimentos em Layouts Responsivos;
 - Conhecimentos em Programação Orientada a Objetos (POO);
 - Conhecimentos de Git;
 - Experiência com React;
