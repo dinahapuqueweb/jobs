@@ -6,25 +6,25 @@ Somos uma startup para ensino e estamos à procura de alguém para atuar princip
 
 
 #Sobre a Vaga
-> Trabalho 100% remoto;
-> Regime PJ - MEI
-> 40h/semanais
+- Trabalho 100% remoto;
+- Regime PJ - MEI
+- 40h/semanais
 
 #Requisitos
-> Experiência com frameworks/bibliotecas Javascript;
-> Conhecimentos em HTML 5, CSS3, Pré-processadores CSS;
-> Layouts Responsivos;
-> Conhecimentos em Programação Orientada a Objetos (POO);
-> Conhecimentos de Git;
-> Experiência com React;
+- Experiência com frameworks/bibliotecas Javascript;
+- Conhecimentos em HTML 5, CSS3, Pré-processadores CSS;
+- Layouts Responsivos;
+- Conhecimentos em Programação Orientada a Objetos (POO);
+- Conhecimentos de Git;
+- Experiência com React;
 
 #Diferenciais
-> Redux;
-> Conhecimento em PHP e/ou Laravel;
-> Conhecimento de bancos relacionais e/ou não-relacionais;
-> Experiência com metodologias ágeis;
-> Experiência com testes automatizados;
+- Redux;
+- Conhecimento em PHP e/ou Laravel;
+- Conhecimento de bancos relacionais e/ou não-relacionais;
+- Experiência com metodologias ágeis;
+- Experiência com testes automatizados;
 
 #O que oferecemos
-> Remuneração R$ 1.600,00
-> Curso de inglês
+- Remuneração R$ 1.600,00
+- Curso de inglês
